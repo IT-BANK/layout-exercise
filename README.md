@@ -12,9 +12,11 @@ Figma Link : https://www.figma.com/file/ks3DjmwxTJEpi0jzBvZrEp/Untitled?node-id=
 - Luego clonar el repo forkeado
 
 - Crear una carpeta que tenga como nombre a TU nombre de github
-- Al terminar tu tarea subir los cambios a tu repo forkeado
+- Al terminar tu tarea hacer commit de los cambios a tu repo forkeado
 
 ![Basic Layout](image/commit.png)
+
+- Y luego subir los cambios a tu repo forkeado
 
 - Create Pull Request
 
