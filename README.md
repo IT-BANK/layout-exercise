@@ -2,7 +2,7 @@
 
 ## Crear una página que se vea así
 
-![Basic Layout](image/layout.png)
+![Basic Layout](images/layout.png)
 
 Figma Link : https://www.figma.com/file/ks3DjmwxTJEpi0jzBvZrEp/Untitled?node-id=1%3A2
 
@@ -13,28 +13,28 @@ Figma Link : https://www.figma.com/file/ks3DjmwxTJEpi0jzBvZrEp/Untitled?node-id=
 
 - Crear una carpeta que tenga como nombre a TU nombre de github
 
-![Basic Layout](image/new-folder.png)
+![Basic Layout](images/new-folder.png)
 
 - Al terminar tu tarea hacer commit de los cambios
 
-![Basic Layout](image/commit.png)
+![Basic Layout](images/commit.png)
 
 - Y luego subir los cambios a tu repo forkeado
 
-![Basic Layout](image/sync.png)
+![Basic Layout](images/sync.png)
 
 - Create Pull Request
 
 <!-- - Check your changes
 
-![Basic Layout](image/pr-1.png)
+![Basic Layout](images/pr-1.png)
 
 - Describe Your Pull Request on comment, and Pull Request Title `Add Task-1/{{github-username}}`
 
-![Basic Layout](image/pr-2.png)
+![Basic Layout](images/pr-2.png)
 
 - Yeayy Done, You're Successfull Completed this task
 
-![Basic Layout](image/pr-3.png)
-![Basic Layout](image/pr-4.png)
+![Basic Layout](images/pr-3.png)
+![Basic Layout](images/pr-4.png)
  -->
