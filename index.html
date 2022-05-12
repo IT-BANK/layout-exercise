@@ -16,7 +16,7 @@
     <script>
       async function get() {
         const res = await fetch(
-          'https://api.github.com/repos/rafiudd/basic-layout-web/contributors'
+          'https://api.github.com/repos/IT-BANK/layout-exercise/contributors'
         );
         const data = await res.json();
         console.log(data);
@@ -34,7 +34,7 @@
           listImg += `
             <div class= "container">
               <h3>${user}</h3>
-              <a href="https://rafiudd.github.io/basic-layout-web/${user}" >
+              <a href="https://github.com/IT-BANK/layout-exercise/${user}" >
                 <img src="${imgUser} alt=“${user}">
               </a>
             </div>`;
