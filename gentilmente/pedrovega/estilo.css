@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor {
+    width:  100%;
+    max-width: 1000px;
+    display: grid;
+    grid-template-columns: 300px 200px 200px;
+    grid-template-rows: repeat(5, auto);
+    gap: 20px;
+    margin: auto
+}
+
+.contenedor .caja1 {
+    height: 80px;
+    background: coral;
+    grid-column-start: 1;
+    grid-column-end: -1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+.contenedor .caja2 {
+    background: blue;
+    color: white;
+    height: 80px;
+    grid-column-start: 1;
+    grid-column-end: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.contenedor .caja3 {
+    background: brown;
+    height: 80px;
+    grid-column-start: 2;
+    grid-column-end: 2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contenedor .caja4 {
+    background: violet;
+    height: 80px;
+    grid-column-start: 3;
+    grid-column-end: 3; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contenedor .caja5 {
+    background: orange;
+    width: 80%;
+    height: 80px;
+    grid-column-start: 1;
+    grid-column-end: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.contenedor .caja6 {
+    background: powderblue;
+    width: 80%;
+    height: 80px;
+    grid-column-start: 1;
+    grid-column-end: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.contenedor .caja7 {
+    background: palegreen;
+    width: 114%;
+    height: 160px;
+    margin-left: -60px;
+    grid-column-start: 2;
+    grid-column-end: 4; 
+    grid-row: 3 / 5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contenedor .caja8 {
+    background: black;
+    height: 80px;
+    color: white;
+    grid-column-start: 1;
+    grid-column-end: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.contenedor .caja9 {
+    background: grey;
+    height: 80px;
+    grid-column-start: 2;
+    grid-column-end: 4;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+
+
